@@ -1,0 +1,23 @@
+.body {
+    overflow: hidden;
+}
+.roll {
+    max-width: 100%;
+    height: 10em;
+}
+.roll-container {
+    display: flex;
+    overflow-x: scroll;
+    height: 7em;
+}
+.roll-container-content {
+    margin-right: 20px;
+    height: 50px;
+    padding: 5px;
+}
+.roll-image {
+    border-radius: 100%;
+    height: 60px;
+    width: 60px;
+    margin-right: 4px;
+}

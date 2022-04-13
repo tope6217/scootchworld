@@ -1,0 +1,55 @@
+.nav-top .nav-sidebar {
+    position: relative;
+}
+
+.nav-top .nav-sidebar .bar {
+    position: absolute;
+    padding: 13px;
+}
+.nav-top .nav-sidebar .nav-content .content {
+}
+.nav-top .nav-sidebar .justify-content-center a {
+    color: black;
+    text-transform: capitalize;
+    text-decoration: none;
+    margin-left: 4%;
+}
+
+.nav-show{
+    background-color:brown;
+    color:white;
+    padding:10px;
+}
+.nav-top .nav-sidebar .nav-content .content a{
+    padding: 15px;
+    color: black;
+    text-transform: capitalize;
+    text-decoration: none;
+    margin-left: 3%;
+}
+.nav-top .nav-sidebar .search {
+    position: absolute;
+    right: 0;
+    padding: 20px;
+    top: 0;
+}
+.nav-top .nav-sidebar .search-box {
+    position: absolute;
+    left: 30%;
+    width: 100%;
+}
+.nav-top .nav-sidebar .search-box #search {
+    padding: 5px;
+    border-radius: 2%;
+    border-width: 0.1px;
+}
+
+.d-off{
+    display: none;
+    transition: display 2s;
+}
+.nav-top{
+    background: white;
+}
+
+
